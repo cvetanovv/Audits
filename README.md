@@ -13,7 +13,7 @@ If you're looking for a meticulous Smart Contract Security Audit for your projec
 
 - **Twitter**: [@cvetanovv0](https://twitter.com/cvetanovv0)
 - **Discord**: cvetanovv
-- **Telegram**: Join me on [Telegram](https://t.me/tsvetanovv)
+- **Telegram**: Contact me on [Telegram](https://t.me/tsvetanovv)
 
 I look forward to collaborating and ensuring the security and success of your projects.
 ***
