@@ -23,6 +23,7 @@ I have been a **Lead Judge** in Sherlock contests **13** times and Sherlock Head
 
 |                                   Contest                                    |      Leaderboard       |
 | :--------------------------------------------------------------------------: | :--------------------: |
+|            [Velocimeter](https://audits.sherlock.xyz/contests/442)           | Sherlock Head of Judge |
 |            [Andromeda](https://audits.sherlock.xyz/contests/368)             | Sherlock Head of Judge |
 |         [Exactly Protocol](https://audits.sherlock.xyz/contests/247)         | Sherlock Head of Judge |
 |          [Teller Finance](https://audits.sherlock.xyz/contests/295)          | Sherlock Head of Judge |
@@ -31,6 +32,7 @@ I have been a **Lead Judge** in Sherlock contests **13** times and Sherlock Head
 |             [Tapioca](https://audits.sherlock.xyz/contests/170)              | Sherlock Head of Judge |
 |             [xKeeper](https://audits.sherlock.xyz/contests/248)              | Sherlock Head of Judge |
 |            [Perpetual](https://audits.sherlock.xyz/contests/219)             |     Sherlock Judge     |
+|            [Aleo](https://audits.sherlock.xyz/contests/395)                  |     Lead Judge         |
 |          [Smilee Finance](https://audits.sherlock.xyz/contests/180)          |       Lead Judge       |
 |           [Goat Trading](https://audits.sherlock.xyz/contests/178)           |       Lead Judge       |
 |      [Flat Money Fix Review](https://audits.sherlock.xyz/contests/287)       |       Lead Judge       |
@@ -71,6 +73,7 @@ I have been a **Lead Judge** in Sherlock contests **13** times and Sherlock Head
 | [Fjord Foundry.](https://www.fjordfoundry.com/) | Connecting innovative projects and engaged backers through a community-focused platform, offering fair and transparent LBPs and token sale events.                                                                                 | Hunter Security    | TBA                                                                                                      |
 | [TapiocaDAO](https://www.tapioca.xyz/)          | The Omnichain Money Market & Unstoppable OmniDollar, Powered by LayerZero.                                                                                                                                                         | Pashov Audit Group | [Report](https://github.com/cvetanovv/Audits/blob/main/Team/TapiocaDAO-security-review-report.pdf)       |
 | Kekotron Router                                 | Kekotron Router is designed to handle Uniswap v2 and v3 style swaps. It has dynamic handling to ensure safety and consistency for all supported protocols.                                                                         | Pashov Audit Group | [Report](https://github.com/cvetanovv/Audits/blob/main/Team/Kekotron-security-review.pdf)                |
+| [PearLabs](https://docs.pearprotocol.io/)                                 | Pear Protocol represents an innovative solution designed to streamline and enhance the efficiency of on-chain pairs trading.                                                                         | Shieldify | [Report](https://github.com/shieldify-security/audits-portfolio/blob/main/reports/PearLabs-V1-Security-Review.pdf)                |
 | [BottoDAO](https://www.botto.com/)              | Botto is a decentralized autonomous artist.<br>Botto creates works of art based on collective feedback from the community.                                                                                                         | Audita             | [Report](https://github.com/cvetanovv/Audits/blob/main/Team/BottoDAO_SecurityReview_Audita.pdf)          |
 | [NFPrompt](https://nfprompt.io/)                | NFPrompt is the first Prompt Artist Platform in Web3, which lets you mint your imagination into an AI-Generated NFT. Collectors and enthusiasts can buy/sell the NFT together with the prompt that was used to generate the image. | Audita             | [Report](https://github.com/cvetanovv/Audits/blob/main/Team/NFPrompt_SecurityAudit.pdf)                  |
 | [NFPrompt Update](https://nfprompt.io/)         | NFPrompt is the first Prompt Artist Platform in Web3, which lets you mint your imagination into an AI-Generated NFT. Collectors and enthusiasts can buy/sell the NFT together with the prompt that was used to generate the image. | Audita             | [Report](https://github.com/cvetanovv/Audits/blob/main/Team/NFPrompt_SecurityAudit_FinalAuditReport.pdf) |
