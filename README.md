@@ -19,7 +19,7 @@ I look forward to collaborating and ensuring the security and success of your pr
 ***
 ### Sherlock Judging  [![](https://camo.githubusercontent.com/29974447ca620209133975b23b55238607d44320a1e7a7fb66f63cdd1e9ccbd1/68747470733a2f2f6175646974732e736865726c6f636b2e78797a2f5f6e6578742f7374617469632f6d656469612f736865726c6f636b5f6c6f676f2e62663531396339652e737667)](https://camo.githubusercontent.com/29974447ca620209133975b23b55238607d44320a1e7a7fb66f63cdd1e9ccbd1/68747470733a2f2f6175646974732e736865726c6f636b2e78797a2f5f6e6578742f7374617469632f6d656469612f736865726c6f636b5f6c6f676f2e62663531396339652e737667)
 
-I have been a **Lead Judge** in Sherlock contests **13** times and Sherlock Head of Judge **7** times, achieving **top 5** status **18** times, highlighting my expertise and commitment to excellence in smart contract security.
+I have been a **Lead Judge** in Sherlock contests **16** times and Sherlock Head of Judge **9** times, achieving **top 5** status **18** times, highlighting my expertise and commitment to excellence in smart contract security.
 
 |                                   Contest                                    |      Leaderboard       |
 | :--------------------------------------------------------------------------: | :--------------------: |
@@ -30,9 +30,11 @@ I have been a **Lead Judge** in Sherlock contests **13** times and Sherlock Head
 | [Arcadia - Aerodrome integrations](https://audits.sherlock.xyz/contests/321) | Sherlock Head of Judge |
 |  [Nouns DAO - Clients Incentives](https://audits.sherlock.xyz/contests/202)  | Sherlock Head of Judge |
 |             [Tapioca](https://audits.sherlock.xyz/contests/170)              | Sherlock Head of Judge |
+|            [Perpetual](https://audits.sherlock.xyz/contests/219)             | Sherlock Head of Judge |
 |             [xKeeper](https://audits.sherlock.xyz/contests/248)              | Sherlock Head of Judge |
-|            [Perpetual](https://audits.sherlock.xyz/contests/219)             |     Sherlock Judge     |
-|            [Aleo](https://audits.sherlock.xyz/contests/395)                  |     Lead Judge         |
+|            [Perennial V2 Update #3](https://audits.sherlock.xyz/contests/518)|       Lead Judge       |
+|            [Aleo](https://audits.sherlock.xyz/contests/395)                  |       Lead Judge       |
+|          [Cork Protocol](https://audits.sherlock.xyz/contests/506)           |       Lead Judge       |
 |          [Smilee Finance](https://audits.sherlock.xyz/contests/180)          |       Lead Judge       |
 |           [Goat Trading](https://audits.sherlock.xyz/contests/178)           |       Lead Judge       |
 |      [Flat Money Fix Review](https://audits.sherlock.xyz/contests/287)       |       Lead Judge       |
